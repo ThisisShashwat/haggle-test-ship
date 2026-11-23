@@ -9,3 +9,5 @@ A test of the ship pipeline for [haggle](https://haggle.hackclub.com)'s Week 1, 
 3. `python predict.py` writes `predictions.csv` with `project_id,hours_spent`.
 
 Needs Python 3 and pandas.
+
+Shipped again on 2026-11-24 to test the Vercel runner.
